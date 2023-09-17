@@ -32,7 +32,7 @@
             {
                 int diff = Math.Abs(sumOdd - sumEven);
                 Console.WriteLine("No");
-                Console.WriteLine($"Diff = {diff:F2}");
+                Console.WriteLine($"Diff = {diff}");
            }
 
         }
