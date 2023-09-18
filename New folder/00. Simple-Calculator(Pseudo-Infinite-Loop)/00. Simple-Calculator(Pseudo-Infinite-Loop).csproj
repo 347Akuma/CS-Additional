@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_00._Simple_Calculator_Pseudo_Infinite_Loop_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\guita\OneDrive\Desktop\C# Additional\First-Calculator-App%28in prog, it%27s still dumb%29\Calculator-App.cs" Link="Calculator-App.cs" />
+  </ItemGroup>
+
+</Project>
